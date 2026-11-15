@@ -38,7 +38,7 @@ Weather data is provided by [Open-Meteo](https://open-meteo.com/).
 
 ## 📸 Preview
 
-Add a screenshot of the application here.
+![Screenshot](image.png)
 
 ## 👩‍💻 Developer
 
